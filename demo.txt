@@ -1,2 +1,3 @@
 Noi dung file demo.txt
 Nội dung dòng thứ 2 ở đây.
+Thêm Nội dung dòng thứ 3
